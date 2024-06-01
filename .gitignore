@@ -1,2 +1,7 @@
 node_modules
 .DS_Store
+
+# groceries
+groceries/*/__pycache__
+groceries/*/ENV
+groceries/*/*.sh
