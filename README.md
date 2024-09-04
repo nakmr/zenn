@@ -6,6 +6,9 @@
 # 新しい記事を書く
 npx zenn new:article
 
+# 新しい本を書く
+npx zenn new:book
+
 # プレビュー
 npx zenn preview
 ```

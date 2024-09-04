@@ -1,0 +1,9 @@
+title: "[エッセイ] Pythonで実践する関数型プログラミング"
+summary: "Pythonを使った関数型プログラミングの実践に関するエッセイ集です。"
+topics: ["Python", "関数型プログラミング", "エッセイ"]
+published: false
+price: 0 # 有料の場合200〜5000
+# 本に含めるチャプターを順番に並べましょう
+chapters:
+  - 1_preface
+  - 2_what_is_fp
