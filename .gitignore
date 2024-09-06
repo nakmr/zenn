@@ -5,3 +5,5 @@ node_modules
 groceries/*/__pycache__
 groceries/*/ENV
 groceries/*/*.sh
+
+.env
