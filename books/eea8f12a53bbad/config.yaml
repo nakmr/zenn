@@ -1,0 +1,13 @@
+title: "関数型プログラミングをPythonで実践しよう"
+summary: "テスト"
+topics: [Python, 関数型プログラミング]
+published: false
+price: 0 # 有料の場合200〜5000
+# 本に含めるチャプターを順番に並べましょう
+chapters:
+  - introduction
+  - fp_with_openai_api_call
+  # - introduce_typing
+  # - unit_testing
+  # - afterword
+  - references
