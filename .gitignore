@@ -9,3 +9,7 @@ groceries/*/*.sh
 .env
 
 tmp.md
+
+# Coconut
+hello_world.*
+__coconut_cache__
