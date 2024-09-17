@@ -7,3 +7,5 @@ groceries/*/ENV
 groceries/*/*.sh
 
 .env
+
+tmp.md
