@@ -9,6 +9,7 @@ groceries/*/*.sh
 .env
 
 tmp.md
+articles/*-note.md
 
 # Coconut
 hello_world.*
